@@ -11,10 +11,9 @@
 </p>
 
 <p align="center">
-  I am a researcher and engineer working where <strong>reinforcement learning</strong>,
-  <strong>interpretable AI</strong>, <strong>molecular science</strong>, and
-  <strong>computational physics</strong> overlap. I build systems that make learned
-  and scientific models easier to train, evaluate, and understand.
+  Hi, I'm Michael — a <strong>Computer Science + Mathematics</strong> student at
+  <strong>Harvey Mudd College</strong>, Class of 2028. I work across reinforcement
+  learning, agentic AI, molecular machine learning, and computational physics.
 </p>
 
 <br>
@@ -24,9 +23,3 @@
 <br>
 
 <img src="assets/working-stack.png" width="100%" alt="Working stack across reinforcement learning, agentic AI, molecular simulation, and systems and data engineering">
-
-<br>
-
-<p align="center">
-  <sub>Computer Science + Mathematics · Harvey Mudd College · Class of 2028</sub>
-</p>
